@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
     environment {
         REPO = "devopsity22/caesar-cipher"
     }
